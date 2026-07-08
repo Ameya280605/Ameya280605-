@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0b1a,6f42c1,4f46e5,8b5cf6&height=160&section=header&text=Ameya280605&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <div align="center">
@@ -219,3 +220,6 @@ open_to:
 "Engineering is the craft of turning complexity into reliable products."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e0b1a,6f42c1,4f46e5,8b5cf6&height=64&section=footer&text=Ameya280605&fontSize=20&fontColor=ffffff" />
+=======
+# Ameya280605-
+>>>>>>> 28345021afc511c52c7b246cc08fd8003aa3dcf0
